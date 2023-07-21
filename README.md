@@ -4,6 +4,13 @@ Swig-Demo
 ├─ .DS_Store
 ├─ .vscode
 │  └─ c_cpp_properties.json
+├─ README.md
+├─ a
+│  ├─ a.go
+│  ├─ demo.a
+│  ├─ demo.h
+│  ├─ demo.i
+│  └─ demo_wrap.cxx
 ├─ go.mod
 ├─ lib
 │  ├─ .DS_Store
